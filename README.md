@@ -1,12 +1,12 @@
-### Hi there 👋
+### ¡Saludos desde la nube! 👋
 
 Soy un joven muy proactivo y autodidacta, me gusta aprender nuevas herramientas que me ayuden a solucionar problemas. Estudie adm. Financiera y luego trabajé en algunas empresas bajo este título, luego por vocación estudio analista programador, donde he realizado proyectos en java, Python con django, realizando paginas web con html, css y javascript y tambien he realizado algunos proyectos con C# .net. He descubierto que me falta mucho por aprender, y es ésta mi principal motivación para seguir creciendo y buscando nuevas oportunidades y desafios.
 :thumbsup:
 
-### My stack technologies :computer:
+### Algunas tecnologías :computer:
 
 
-| Programming languajes     | Frontend  | Backend | RDBMS        | Dev Tools |
-|-----------|-----------|------|---------------------------|-----------|
-| `JAVASCRIPT` `TYPESCRIPT` | `ANGULAR`     | `PYTHON` `JAVA`   |   `POSTGRESQL` `MYSQL`  |    `GIT` `DOCKER` `VISUAL STUDIO CODE` `MACOS` `WINDOWS`       |
+| Programming languajes   |Frontend |Backend   |RDBMS   |Dev Tools   |
+|-----------|-----------|-----------|-----------|-----------|
+| [![JavasCript](https://img.shields.io/badge/JavasCript-c8cc00?style=for-the-badge&labelColor=101010)]() [![typescript](https://img.shields.io/badge/typescript-0087cc?style=for-the-badge&labelColor=101010)]() | [![angular](https://img.shields.io/badge/angular-d41406?style=for-the-badge&labelColor=101010)]() [![html](https://img.shields.io/badge/html-DC7633?style=for-the-badge&labelColor=101010)]()|[![python](https://img.shields.io/badge/python-3498DB?style=for-the-badge&labelColor=101010)]() [![java](https://img.shields.io/badge/java-CB4335?style=for-the-badge&labelColor=101010)]() [![scala](https://img.shields.io/badge/scala-CB4330?style=for-the-badge&labelColor=101010)]() [![kotlin](https://img.shields.io/badge/kotlin-D35400?style=for-the-badge&labelColor=101010)]() |[![postgresql](https://img.shields.io/badge/postgresql-85C1E9?style=for-the-badge&labelColor=101010)]() [![mysql](https://img.shields.io/badge/mysql-F4D03F?style=for-the-badge&labelColor=101010)]() [![oracle](https://img.shields.io/badge/oracle-C0392B?style=for-the-badge&labelColor=101010)]() [![mongodb](https://img.shields.io/badge/mongodb-52BE80?style=for-the-badge&labelColor=101010)]() |[![git](https://img.shields.io/badge/git-DC7633?style=for-the-badge&labelColor=101010)]() [![docker](https://img.shields.io/badge/docker-2874A6?style=for-the-badge&labelColor=101010)]() [![visual studio code](https://img.shields.io/badge/visual_studio_code-21618C?style=for-the-badge&labelColor=101010)]() [![macos](https://img.shields.io/badge/macos-CCD1D1?style=for-the-badge&labelColor=101010)]() [![windows](https://img.shields.io/badge/windows-52BE80?style=for-the-badge&labelColor=101010)]() [![jira](https://img.shields.io/badge/jira-AED6F1?style=for-the-badge&labelColor=101010)]() [![notion](https://img.shields.io/badge/docker-B2BABB?style=for-the-badge&labelColor=101010)]() |
 
